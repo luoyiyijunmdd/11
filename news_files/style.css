@@ -405,7 +405,7 @@ a:hover { color:#013c7e;}
 .post-93 .news_list li.news .news_box{margin:0 12px;}
 .post-93 .news_list li.news .link_icon{background-color:transparent;}
 .post-93 .news_list li.news .link_icon:hover{background-color:transparent;}
-.post-93 .news_list li.news .link_con{line-height: 28px;color:#fff;}
+.post-93 .news_list li.news .link_con{line-height: 28px;color:#fff;text-indent: 2em;}
 .post-93 .news_list li.news .link_icon:hover .link_con{color:#ccc;}
 
 /***********************************************************
